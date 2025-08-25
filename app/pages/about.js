@@ -28,7 +28,7 @@ const About = () => (
         <div className="space-y-4 md:space-y-6 text-base md:text-xl leading-relaxed">
           <p>👨‍💻 I'm a Software Engineer with over 4 years of experience in software development and cloud technologies.</p>
           <p>🎓 Currently pursuing my Honours Bachelor of Science in Computer Science at Ontario Tech University—focused on building reliable, scalable software that makes a difference.</p>
-          <p>🛠 From full-stack development to cloud-based solutions, I’ve led enterprise-level projects that streamline operations and deliver real impact.</p>
+          <p>🛠 From full-stack development to cloud-based solutions, I&apos;ve led enterprise-level projects that streamline operations and deliver real impact.</p>
           <p>🔧 I enjoy automating workflows, optimizing systems, and turning complex challenges into real results. 📈</p>
           <p>💡 Always curious and constantly learning.</p>
         </div>
