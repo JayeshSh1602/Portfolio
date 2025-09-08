@@ -55,14 +55,24 @@ const Hero = () => {
                                 </svg>
                             </a>
                         </div>
+                        <div className='text-xl text-bold text-black mt-4'>
+                            <span className="flex items-center gap-2 p-1">
+                                <img src="location.png" width={20} height={20}></img>
+                                Delhi, India
+                            </span>
+                            <span className="flex items-center gap-2 p-1">
+                                <img src="record-button.png" width={20} height={20}></img>
+                                Available for new projects
+                            </span>
+                        </div>
                     </div>
 
                     <div className="flex justify-center items-center mt-8 md:mt-0">
-                        <Image // Changed <img> to <Image>
+                        <Image
                             src="/peacemaker.png"
                             alt="Profile"
-                            width={200} // Added width
-                            height={200} // Added height (adjust as needed for proper ratio)
+                            width={200}
+                            height={200}
                             className="w-[200px] h-auto md:w-[350px] rounded-lg shadow-lg"
                         />
                     </div>
