@@ -91,6 +91,7 @@ const projects = [
         image: "/career-finder.png",
         source_code_link: "https://github.com/JayeshSh1602/AI-CarrerPathFinder",
         live_project_link: "https://ai-carrerpathfinder.onrender.com",
+        invertIcon: true,
         width: 1200,
         height: 800,
     },
