@@ -63,6 +63,38 @@ const projects = [
         height: 800, // Added height
     },
     {
+        name: "AI Career Path Finder 🤖",
+        description:
+            "AI-powered career guidance platform that helps users plan their professional journey. It provides personalized career path recommendations, resume building tools, and interview preparation resources, enabling users to showcase their skills effectively and succeed in job applications.",
+        tags: [
+            {
+                name: "React",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Clerk",
+                color: "green-text-gradient",
+            },
+            {
+                name: "PostgreSQL",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "Tailwind CSS",
+                color: "purple-text-gradient",
+            },
+            {
+                name: "Gemini API",
+                color: "red-text-gradient",
+            }
+        ],
+        image: "/career-finder.png",
+        source_code_link: "https://github.com/JayeshSh1602/AI-CarrerPathFinder",
+        live_project_link: "https://ai-carrerpathfinder.onrender.com",
+        width: 1200,
+        height: 800,
+    },
+    {
         name: "Spotify Clone ♫",
         description:
             "A Spotify web application clone that lets users search, play, and browse playlists seamlessly. Built with React, the app demonstrates real-time music streaming UI, responsive design, and playlist management features. The web version is hosted on Vercel for fast and scalable deployment.",
