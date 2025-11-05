@@ -69,10 +69,10 @@ const Hero = () => {
 
                     <div className="flex justify-center items-center mt-8 md:mt-0">
                         <Image
-                            src="/peacemaker.png"
+                            src="/me2.png"
                             alt="Profile"
-                            width={200}
-                            height={200}
+                            width={600}
+                            height={600}
                             className="w-[200px] h-auto md:w-[350px] rounded-lg shadow-lg"
                         />
                     </div>
